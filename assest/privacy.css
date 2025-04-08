@@ -162,6 +162,7 @@
     position: relative;
     left: 46%;
     bottom: 1.8em;
+    z-index: -1;
   }
   
   .privacy_main legend img {
